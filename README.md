@@ -43,7 +43,6 @@ Conhecimento em **Node.js**, **JavaScript** e testes de software, com foco cont√
 <p align="center">
 	<img alt="Python" src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
 	<img alt="RPA" src="https://img.shields.io/badge/RPA%20%F0%9F%A4%96-0f172a?style=for-the-badge&logo=robotframework&logoColor=38BDF8" />
 </p>
 
