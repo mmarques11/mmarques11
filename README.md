@@ -43,8 +43,19 @@ Conhecimento em **Node.js**, **JavaScript** e testes de software, com foco cont�
 <p align="center">
 	<img alt="Python" src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" />
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=38BDF8" />
-	<img alt="Docker" src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+	<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=38BDF8" />
+	<img alt="RPA" src="https://img.shields.io/badge/RPA%20%F0%9F%A4%96-0f172a?style=for-the-badge&logo=robotframework&logoColor=38BDF8" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="center">
 	<img alt="Kestra" src="https://img.shields.io/badge/Kestra-0f172a?style=for-the-badge&logo=kestra&logoColor=38BDF8" />
+	<img alt="Docker" src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+	<img alt="Power Automate" src="https://img.shields.io/badge/Power%20Automate-0f172a?style=for-the-badge&logo=microsoftpowerautomate&logoColor=38BDF8" />
+	<img alt="Git" src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38BDF8" />
+	<img alt="AWS" src="https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
+
 </p>
 
 ### 📚 Foco atual
