@@ -21,10 +21,20 @@
 
 ---
 
-### 👨‍💻 Sobre mim | About me
+### 👨‍💻 Resumo profissional
 
-- Desenvolvedor Python Pleno com foco em RPA 🤖, automações robustas e qualidade de entrega.
-- Python Software Engineer focused on automation, scalability and reliability.
+Desenvolvedor Pleno especializado em **Automação e RPA com Python**, atuando na padronização, sustentação e escalabilidade de automações em ambiente corporativo.
+
+Experiência em:
+
+- Definição de arquitetura de robôs
+- Sustentação de automações RPA em plataformas low-code
+- Identificação de cenários onde o low-code não era eficiente, com migração estratégica para Python
+- Implementação de fluxos híbridos, integrando processos low-code com serviços em Python
+- Versionamento com Git
+- Práticas de DevOps, incluindo CI/CD e containerização com Docker
+
+Conhecimento em **Node.js**, **JavaScript** e testes de software, com foco contínuo em **Clean Architecture**, governança de RPA e soluções backend escaláveis.
 
 ---
 
@@ -37,23 +47,14 @@
 	<img alt="Kestra" src="https://img.shields.io/badge/Kestra-0f172a?style=for-the-badge&logo=kestra&logoColor=38BDF8" />
 </p>
 
-### 📚 Atualmente estudando
+### 📚 Foco atual
 
-<p align="center">
-	<img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0f172a?style=for-the-badge&logo=githubactions&logoColor=38BDF8" />
-	<img alt="Containers" src="https://img.shields.io/badge/Containers-0f172a?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-	<img alt="Arquitetura de Sistemas" src="https://img.shields.io/badge/System%20Architecture-0f172a?style=for-the-badge&logo=amazonec2&logoColor=38BDF8" />
-	<img alt="Node.js" src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=38BDF8" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=mmarques11&show_icons=true&theme=github_dark_dimmed&hide_border=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarques11&layout=compact&theme=github_dark_dimmed&hide_border=true" alt="Top languages" />
-</p>
+- Backend com Node.js e TypeScript aplicado a automações e APIs
+- Arquitetura escalável e boas práticas de design
+- Containers e ambientes Dockerizados
+- CI/CD e automação de pipelines
+- Hospedagem e serviços na AWS
+- Ferramentas de Orquestração (Kestra)
 
 ---
 
