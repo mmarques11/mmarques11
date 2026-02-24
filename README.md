@@ -23,7 +23,7 @@
 
 ### 👨‍💻 Resumo profissional
 
-Desenvolvedor Pleno especializado em **Automação e RPA com Python**, atuando na padronização, sustentação e escalabilidade de automações em ambiente corporativo.
+**Software Automation Engineer** especializado em automação corporativa com Python, atuando na padronização, sustentação e escalabilidade de soluções RPA.
 
 Experiência em:
 
