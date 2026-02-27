@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,25,30&text=Mateus%20Marques&fontColor=38BDF8&fontAlignY=38&desc=Software%20Automation%20Engineer%20%7C%20RPA%20%F0%9F%A4%96&descAlignY=58&animation=twinkling" alt="Dark premium header" />
+	<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:050816,100:1D4ED8&text=Mateus%20Marques&fontColor=93C5FD&fontAlignY=40&fontSize=44&desc=Software%20Automation%20Engineer%20%7C%20RPA%20%F0%9F%A4%96&descAlignY=61&descSize=16&descColor=C4B5FD&animation=fadeIn" alt="Futuristic clean dark blue header" />
 </p>
 
 <p align="center">
